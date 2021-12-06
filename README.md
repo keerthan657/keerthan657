@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## Hello I'm Keerthan
+### A student of RV College of Engineering. I love making games with Unity, and currently working on improving my backend skills using Flask.
 
 ## Skills
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
